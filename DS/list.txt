@@ -1,0 +1,132 @@
+===============================
+DATA STRUCTURES – REFERENCE
+===============================
+
+This file contains a list of commonly known data structures
+used in competitive programming and technical interviews.
+
+The goal is awareness and recall.
+
+--------------------------------
+1. BASIC / LINEAR DATA STRUCTURES
+--------------------------------
+Array
+Dynamic Array (Vector)
+String
+Linked List (Singly)
+Linked List (Doubly)
+Linked List (Circular)
+Stack
+Queue
+Deque
+
+--------------------------------
+2. ASSOCIATIVE / HASHING STRUCTURES
+--------------------------------
+Set
+Multiset
+Map
+Unordered Set
+Unordered Map
+Hash Table
+Pair
+Tuple
+
+--------------------------------
+3. HEAPS / PRIORITY STRUCTURES
+--------------------------------
+Min Heap
+Max Heap
+Priority Queue
+Binary Heap
+Fibonacci Heap
+Binomial Heap
+
+--------------------------------
+4. TREE DATA STRUCTURES
+--------------------------------
+Tree
+Rooted Tree
+Binary Tree
+Binary Search Tree (BST)
+Balanced Binary Search Tree
+AVL Tree
+Red-Black Tree
+Splay Tree
+Treap
+Cartesian Tree
+Segment Tree
+Lazy Segment Tree
+Fenwick Tree (Binary Indexed Tree)
+Interval Tree
+Merge Sort Tree
+Persistent Segment Tree
+
+--------------------------------
+5. GRAPH DATA STRUCTURES
+--------------------------------
+Graph
+Directed Graph
+Undirected Graph
+Weighted Graph
+Adjacency List
+Adjacency Matrix
+Edge List
+
+--------------------------------
+6. DISJOINT / SET STRUCTURES
+--------------------------------
+Disjoint Set Union (DSU / Union-Find)
+Persistent DSU
+DSU with Rollback
+
+--------------------------------
+7. STRING DATA STRUCTURES
+--------------------------------
+Trie (Prefix Tree)
+Suffix Array
+Suffix Automaton
+Palindromic Tree (Eertree)
+Aho-Corasick Automaton
+
+--------------------------------
+8. RANGE QUERY STRUCTURES
+--------------------------------
+Sparse Table
+Range Minimum Query (RMQ)
+2D Prefix Sum Table
+Difference Array
+
+--------------------------------
+9. ADVANCED / SPECIALIZED STRUCTURES
+--------------------------------
+Order Statistic Tree
+KD-Tree
+Li Chao Tree
+Convex Hull Trick Structure
+Binary Trie
+Persistent Fenwick Tree
+
+--------------------------------
+10. BITWISE / MASKING STRUCTURES
+--------------------------------
+Bitset
+Bitmask Representation
+
+--------------------------------
+11. QUEUE / DEQUE VARIANTS
+--------------------------------
+Monotonic Queue
+Circular Queue
+Double Ended Queue
+
+--------------------------------
+12. MISCELLANEOUS
+--------------------------------
+Euler Tour Representation
+Heavy Light Decomposition Structure
+Centroid Decomposition Structure
+
+===============================
+END OF FILE
+===============================
