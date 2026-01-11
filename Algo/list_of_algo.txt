@@ -1,0 +1,162 @@
+===============================
+POPULAR ALGORITHMS – REFERENCE
+===============================
+
+This file contains a list of commonly known algorithms that may appear
+in competitive programming and technical interviews.
+
+The goal is awareness and recall, not memorization of implementation.
+
+--------------------------------
+1. SEARCHING ALGORITHMS
+--------------------------------
+Linear Search
+Binary Search
+Ternary Search
+Exponential Search
+Interpolation Search
+
+--------------------------------
+2. SORTING ALGORITHMS
+--------------------------------
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+Tim Sort
+
+--------------------------------
+3. GRAPH ALGORITHMS
+--------------------------------
+Breadth First Search (BFS)
+Depth First Search (DFS)
+Multi-source BFS
+Topological Sort
+Dijkstra’s Algorithm
+Bellman-Ford Algorithm
+Floyd-Warshall Algorithm
+A* Search
+Kruskal’s Algorithm
+Prim’s Algorithm
+Borůvka’s Algorithm
+Strongly Connected Components (Kosaraju)
+Strongly Connected Components (Tarjan)
+Articulation Points
+Bridges
+Euler Tour
+Hierholzer’s Algorithm
+Maximum Flow (Ford-Fulkerson)
+Edmonds-Karp Algorithm
+Dinic’s Algorithm
+Minimum Cut
+Bipartite Graph Checking
+Hopcroft-Karp Algorithm
+
+--------------------------------
+4. TREE ALGORITHMS
+--------------------------------
+Tree Traversals (Inorder, Preorder, Postorder)
+Binary Lifting
+Lowest Common Ancestor (LCA)
+Euler Tour Technique
+Heavy Light Decomposition (HLD)
+Centroid Decomposition
+Tree DP
+
+--------------------------------
+5. DYNAMIC PROGRAMMING
+--------------------------------
+0/1 Knapsack
+Unbounded Knapsack
+Subset Sum
+Longest Common Subsequence (LCS)
+Longest Increasing Subsequence (LIS)
+Edit Distance
+Matrix Chain Multiplication
+Digit DP
+Bitmask DP
+DP on Trees
+DP on DAGs
+
+--------------------------------
+6. STRING ALGORITHMS
+--------------------------------
+KMP Algorithm
+Z Algorithm
+Rabin-Karp Algorithm
+Manacher’s Algorithm
+Suffix Array Construction
+Suffix Automaton
+Trie-based Matching
+Aho-Corasick Algorithm
+
+--------------------------------
+7. RANGE QUERY / DATA STRUCTURE ALGORITHMS
+--------------------------------
+Prefix Sum
+Difference Array
+Fenwick Tree Operations
+Segment Tree Queries
+Lazy Propagation
+Sparse Table RMQ
+Mo’s Algorithm
+Mo’s Algorithm on Trees
+CDQ Divide and Conquer
+
+--------------------------------
+8. GREEDY ALGORITHMS
+--------------------------------
+Activity Selection
+Interval Scheduling
+Job Sequencing
+Huffman Coding
+Fractional Knapsack
+
+--------------------------------
+9. MATHEMATICAL ALGORITHMS
+--------------------------------
+Sieve of Eratosthenes
+Segmented Sieve
+Euclidean Algorithm
+Extended Euclidean Algorithm
+Fast Exponentiation
+Modular Inverse
+Chinese Remainder Theorem
+Matrix Exponentiation
+Inclusion-Exclusion Principle
+
+--------------------------------
+10. BIT MANIPULATION ALGORITHMS
+--------------------------------
+Brian Kernighan’s Algorithm
+Subset Generation using Bitmask
+SOS DP
+Gray Code Generation
+
+--------------------------------
+11. DIVIDE AND CONQUER
+--------------------------------
+Merge Sort
+Quick Sort
+Binary Search on Answer
+CDQ Divide and Conquer
+
+--------------------------------
+12. MISCELLANEOUS
+--------------------------------
+Two Pointers
+Sliding Window
+Meet in the Middle
+Backtracking
+Recursion with Memoization
+Union-Find with Path Compression
+Small to Large Merging
+
+===============================
+END OF FILE
+===============================
